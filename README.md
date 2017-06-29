@@ -2,6 +2,8 @@
 
 为项目创建Github Pages，利用现有主题，快速创建。
 
+最后完成的博客主页： [faner's Blog](https://fandean.github.io/jekyll-demo/ "faner's Blog")
+
 **一次成功的操作步骤：**
 
 1. 在GitHub上新建项目 `jekyll-demo`，
@@ -9,7 +11,9 @@
 2. （可选）在本地安装所需软件，[安装 - Jekyll • 简单静态博客网站生成器](http://jekyllcn.com/docs/installation/ "安装 - Jekyll • 简单静态博客网站生成器")   参考这里，安装4个软件。   
 3. 打包下载主题： < https://github.com/streetturtle/jekyll-clean-dark.git> ，更多主题见 [Jekyll Themes](http://jekyllthemes.org/ "Jekyll Themes")
 4. 更改该主题的配置文件： `_config.yml`
-  ```
+  ```shell
+  # 该为自己的博客名称
+  name: faner's Blog
   url: http//faner.gitlab.io
   # 下面的路径该为你的项目路径
   baseurl: `/jekyll-demo`
@@ -26,4 +30,5 @@
 
 之后的博客文章在`_post`文件夹中更新、添加即可。
 
+博文的格式参考： [搭建一个免费的，无限流量的Blog----github Pages和Jekyll入门 - 阮一峰的网络日志](http://www.ruanyifeng.com/blog/2012/08/blogging_with_jekyll.html "搭建一个免费的，无限流量的Blog----github Pages和Jekyll入门 - 阮一峰的网络日志")
 
