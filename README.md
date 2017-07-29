@@ -1,6 +1,6 @@
 # 模拟体验 Git Flow
 
-Git Flow的介绍见:  FanDean/github-demo#4   [Git Flow：以发布为中心的开发模式 · Issue \#4 · FanDean/github-demo](https://github.com/FanDean/github-demo/issues/4)
+Git Flow的介绍见:    [Git Flow：以发布为中心的开发模式 · Issue \#4 · FanDean/github-demo](https://github.com/FanDean/github-demo/issues/4)
 
 
 
