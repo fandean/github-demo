@@ -1,3 +1,7 @@
+# release/1.0.0 中的修改
+
+发布 1.0.0 之前的修改
+
 ## Pull Request test
 
 现在在这里做一个pull Request 测试。
